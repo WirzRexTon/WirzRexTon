@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hey! I'm WirzRexTon.
 
-<!--
-**WirzRexTon/WirzRexTon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My knowledges
 
-Here are some ideas to get you started:
+❗️ 
+🌱 • I’m currently learning Lua / JS 🤣
+🔭 • I'm currently working on ESX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br />
+
+### My favourites programming languages
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WirzRexTon&count_private=true&show_icons=true?theme=buefy)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WirzRexTon)](https://github.com/anuraghazra/github-readme-stats)
+
+### My projets
+
+<br />
+
+<!--START_SECTION:activity-->
+- ✅ • Actual
+- ⚒️ • WiP
+
+Other:
+- ⚒️ • NewProject
+- ⚒️ • RShare-FR
+
+<!--END_SECTION:activity-->
+
+
+<br />
+
+<br />
+
+---
+
+[discord]: https://discord.gg/CAJ4va5gvh
