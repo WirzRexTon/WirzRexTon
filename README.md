@@ -29,8 +29,8 @@
 - ⚒️ • WiP
 
 Other:
-- ⚒️ • NewProject
-- ⚒️ • RShare-FR
+- ✅ • DarkCity - https://discord.gg/XMSpq7B8qU
+- ✅ • RShare-FR 
 
 <!--END_SECTION:activity-->
 
