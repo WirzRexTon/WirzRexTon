@@ -15,10 +15,16 @@
 ### My favourites programming languages
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WirzRexTon&count_private=true&show_icons=true?theme=buefy)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <br />
+  <img align="left" alt="WirzRexton's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=WirzRexton&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WirzRexTon)
+  <img align="left" alt="WirzRexton's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WirzRexton" />
+
+</details>
+
 <br />
 
 ### My projets
