@@ -16,10 +16,10 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WirzRexTon&count_private=true&show_icons=true?theme=buefy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WirzRexTon)
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WirzRexTon)]
-
 
 ### My projets
 
