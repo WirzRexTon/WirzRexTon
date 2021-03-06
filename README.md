@@ -14,6 +14,8 @@
 
 ### My favourites programming languages
 
+<br />
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -25,7 +27,7 @@
 
 </details>
 
-<br />
+
 
 ### My projets
 
