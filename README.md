@@ -24,7 +24,7 @@
   <img align="left" alt="WirzRexton's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=WirzRexton&show_icons=true&hide_border=true" />
 
   <img align="left" alt="WirzRexton's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WirzRexton" />
-
+  <br />
 </details>
 
 
