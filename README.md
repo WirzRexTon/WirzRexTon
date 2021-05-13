@@ -1,4 +1,8 @@
-### Hey! I'm WirzRexTon.
+### Hey! I'm WirzRexTon. 
+
+```
+![Visitor Count](https : //profile-counter.glitch.me/{WirzRexTon}/count.svg)
+```
 
 ## My knowledges
 
