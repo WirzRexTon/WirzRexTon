@@ -40,8 +40,8 @@
 - ⚒️ • WiP
 
 Other:
-- ✅ • DarkCity - https://discord.gg/XMSpq7B8qU
-- ✅ • RShare-FR 
+- ✅ • Atlantis - https://discord.gg/myq3RkxJK5
+
 
 <!--END_SECTION:activity-->
 
