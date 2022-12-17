@@ -52,4 +52,4 @@ Other:
 
 ---
 
-[discord]: https://discord.gg/CAJ4va5gvh
+[discord]: https://discord.gg/v8nrrJd4Zw
