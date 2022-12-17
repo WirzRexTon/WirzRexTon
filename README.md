@@ -40,7 +40,7 @@
 - ⚒️ • WiP
 
 Other:
-- ✅ • SoSA - https://discord.gg/t5KyJxaDjM
+- ⚒️ • SoSA - https://discord.gg/t5KyJxaDjM
 
 
 <!--END_SECTION:activity-->
