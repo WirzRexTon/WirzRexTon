@@ -40,7 +40,7 @@
 - ⚒️ • WiP
 
 Other:
-- ✅ • Atlantis - https://discord.gg/myq3RkxJK5
+- ✅ • SoSA - https://discord.gg/t5KyJxaDjM
 
 
 <!--END_SECTION:activity-->
