@@ -13,9 +13,7 @@
 
 - 🌱 I’m currently learning **lua**
 
-- 👨‍💻 My project is SoSA (French) [https://discord.gg/stateofsanandreas](https://discord.gg/stateofsanandreas)
-
-- 📫 How to reach me **[https://discord.gg/kmeRmcXW](https://discord.gg/v8nrrJd4Zw)**
+- 📫 How to reach me **discord : .wirzrexton**
 
 ---
 
